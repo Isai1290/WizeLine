@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\WizeLine\\Seguridad\\Seguridad.csproj": {}
+    "C:\\Git\\WizeLine\\Seguridad.csproj": {}
   },
   "projects": {
-    "C:\\Git\\WizeLine\\Seguridad\\Seguridad.csproj": {
+    "C:\\Git\\WizeLine\\Seguridad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\WizeLine\\Seguridad\\Seguridad.csproj",
+        "projectUniqueName": "C:\\Git\\WizeLine\\Seguridad.csproj",
         "projectName": "Seguridad",
-        "projectPath": "C:\\Git\\WizeLine\\Seguridad\\Seguridad.csproj",
+        "projectPath": "C:\\Git\\WizeLine\\Seguridad.csproj",
         "packagesPath": "C:\\Users\\mareyes\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\WizeLine\\Seguridad\\obj\\",
+        "outputPath": "C:\\Git\\WizeLine\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
